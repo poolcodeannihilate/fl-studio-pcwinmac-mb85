@@ -1,4 +1,4 @@
-# 
+# Native FL Studio presets for Mac OS | Instant FL Studio presets for PC Windows. Featuring pitch-shifting and keyframe-animation — optimized for maximum performance on every platform.
 
 
 
